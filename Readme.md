@@ -1,6 +1,11 @@
 
 # Hulu-clone
 
+## Technology used 
+-HTML
+-CSS
+-JS
+
 ## Getting Started
 
 ## Authors
