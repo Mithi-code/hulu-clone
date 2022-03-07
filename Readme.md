@@ -2,9 +2,9 @@
 # Hulu-clone
 
 ## Technology used 
--HTML
--CSS
--JS
+HTML
+CSS
+JS
 
 ## Getting Started
 
